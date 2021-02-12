@@ -1,2 +1,2 @@
 # college-work
-this is for the college work
+only for the college works.
