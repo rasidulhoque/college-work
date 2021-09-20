@@ -9,7 +9,3 @@ int main()
  cout<<"largest of the three number is:"<<s;
  return 0;
 }
-
-
-
-
