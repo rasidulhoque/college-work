@@ -29,7 +29,3 @@ int main()
  cout<<num<<" does not exist in the array";
  return 0;
 }
-
-
-
-
